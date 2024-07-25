@@ -1,0 +1,32 @@
+[
+  {
+      "nimetus": "Komplekteerimine",
+      "hind": 29.99,
+      "teenusepakkuja": "Arvutitark"
+  },
+  {
+      "nimetus": "Kloonimine",
+      "hind": 35,
+      "teenusepakkuja": "IBM"
+  },
+  {
+      "nimetus": "Kopeerimine",
+      "hind": 30,
+      "teenusepakkuja": "Arvutitark"
+  },
+  {
+      "nimetus": "Installeerimine",
+      "hind": 35,
+      "teenusepakkuja": "Arvutitark"
+  },
+  {
+      "nimetus": "Uuendamine",
+      "hind": 25,
+      "teenusepakkuja": "Arvutitark"
+  },
+  {
+      "nimetus": "Taastamine",
+      "hind": 75,
+      "teenusepakkuja": "IBM"
+  }
+]

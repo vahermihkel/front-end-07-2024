@@ -2,6 +2,13 @@
   text-align: center;
 }
 
+.App-dark {
+  text-align: center;
+  background-color: black;
+  color: white;
+  min-height: 100vh;
+}
+
 .pilt {
   height: 100px;
   border-radius: 10px;
@@ -27,4 +34,20 @@
 
 .nupp:active {
   text-decoration: underline;
+}
+
+.summa-aktiivne {
+  border: 3px solid rgb(240, 109, 131);
+}
+
+.linn-aktiivne {
+  text-decoration: underline;
+}
+
+.aktiivne-keel {
+  font-weight: bold;
+}
+
+.map {
+  height: 300px;
 }

@@ -1,0 +1,39 @@
+.App {
+  text-align: center;
+}
+
+.lang {
+  height: 30px;
+  width: 30px;
+  margin: 5px;
+}
+
+.lang:hover {
+  opacity: 0.7;
+  cursor: pointer;
+}
+
+.lang:active {
+  padding: 1px;
+}
+
+.map {
+  height: 300px;
+}
+
+svg {
+  margin-top: -4px;
+}
+
+.carousel {
+  width: 630px;
+  margin: auto;
+}
+
+th {
+  background-color: lightgray;
+}
+
+td, th {
+  border: 1px solid black;
+}

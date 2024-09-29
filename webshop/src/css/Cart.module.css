@@ -1,0 +1,42 @@
+.product {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 10%;
+  border-bottom: 1px solid lightgray;
+  padding: 10px 0;
+}
+
+.image {
+  width: 80px;
+}
+
+.title {
+  width: 150px;
+}
+
+.price {
+  width: 80px;
+}
+
+.quantity {
+  width: 140px;
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid lightgray;
+  height: 40px;
+  padding: 4px;
+  border-radius: 20px;
+}
+
+.sum {
+  width: 100px;
+}
+
+.rate {
+  width: 60px;
+}
+
+.button {
+  height: 30px;
+  width: 30px;
+}

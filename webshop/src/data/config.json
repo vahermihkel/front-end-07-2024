@@ -1,0 +1,5 @@
+{
+  "productsDbUrl": "https://mihkel-07-2024-default-rtdb.europe-west1.firebasedatabase.app/products.json",
+  "categoriesDbUrl": "https://mihkel-07-2024-default-rtdb.europe-west1.firebasedatabase.app/categories.json",
+  "shopsDbUrl": "https://mihkel-07-2024-default-rtdb.europe-west1.firebasedatabase.app/shops.json"
+}

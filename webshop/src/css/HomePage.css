@@ -1,0 +1,40 @@
+.products {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  margin: 3%;
+}
+
+.product {
+  padding: 10px;
+  border: 1px solid lightgray;
+}
+
+.title {
+  font-weight: bold;
+  height: 50px;
+}
+
+.image {
+  width: 100px;
+  height: 100px;
+  transition: 0.5s;
+}
+
+.product:hover .image {
+  transform: scale(1.1);
+  transition: 0.5s;
+}
+
+.image-inactive {
+  width: 100px;
+  height: 100px;
+  filter: grayscale(100%);
+}
+
+.price-lower {
+  background-color: beige;
+  width: 80px;
+  height: 30px;
+  border-radius: 5px;
+  margin: auto;
+}
